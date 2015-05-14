@@ -1,0 +1,8 @@
+---
+description: "Returns GeneSlider CNS alignment data with GFF annotations and motifs for a given AGI locus identifier using the passthrough type of Araport web service"
+name: Araport_GeneSlider_alignmentByAGI
+type: passthrough
+url: "http://bar.utoronto.ca/webservices/araport/geneslider/alignmentByAGI.cgi"
+version: 0.1.0
+whitelist:
+  - bar.utoronto.ca
